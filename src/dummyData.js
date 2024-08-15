@@ -35,7 +35,7 @@ export const homeData = [
     genres: "Adventures",
     tags: "Adventures,Action ",
     cover: "../images/home3.jpg",
-    video: "../video/video3.mp4",
+    video: "../video/video3.webm",
     date: "20-FEB-2010",
   },
   {
